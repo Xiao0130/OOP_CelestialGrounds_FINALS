@@ -1,0 +1,18 @@
+PokeBalls
+Poke Ball,Most basic Poke Ball used to catch a wild pokemon,200,1
+Great Ball,Slightly more effective Poke Ball,600,1.5
+Ultra Ball,Improved variant of the Great Ball,1200,2
+Master Ball,It can be used to catch a wild pokemon without fail,-1,255
+Medicine
+Potion,Can be used to restore 20 HP to an injured Pokémon.,300,20,false,0,false
+Super Potion,Can be used to restore 50 HP to an injured Pokémon.,700,50,false,0,false
+Hyper Potion,Can be used to restore 200 HP to an injured Pokémon.,1200,200,false,0,false
+Full Restore,Fully restores the HP of a single Pokémon and heal any status conditions.,3000,-1,true,0,false
+Full Heal,Used to heal all the status conditions of a Pokémon.,600,0,true,0,false
+Ether,Restores 10 PP to a the lowest remaining PP move of a Pokémon.,1200,0,false,10,false
+Elixir,Restores 10 PP to all the moves of a Pokémon.,3000,0,false,-10,false
+Key Items
+Town Map,A convenient map that can be viewed anytime. Even shows your present location in the region.
+Badge Case,A case containing all the badges you have collected thusfar on your journey
+Exp. Share,Turning on this special device allows all the Pokémon on your team to receive Exp. Points from battles.
+Oak's Letter,A letter from Professor Oak. Written in it is a request for you to go to visit his lab.

@@ -1,1 +1,2 @@
 /OOP_CelestialGrounds.zip filter=lfs diff=lfs merge=lfs -text
+/B48_OOP_Celestia_Grounds/res/maps/maps.psd filter=lfs diff=lfs merge=lfs -text
